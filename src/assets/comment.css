@@ -1,0 +1,11 @@
+html{
+    font:normal normal 14px '微软雅黑',
+    'Microsoft YaHei';
+    color:#666;
+}
+body{
+    margin: 0;
+}
+.el-menu{
+    border-right: none;
+}
